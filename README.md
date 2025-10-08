@@ -87,4 +87,19 @@ for file in file_names:
  
 # Result
 <img width="621" height="717" alt="Screenshot 2025-10-08 085828" src="https://github.com/user-attachments/assets/a3e9e848-f99e-4b3b-b040-704954488bd8" />
+<img width="535" height="582" alt="Screenshot 2025-10-08 085837" src="https://github.com/user-attachments/assets/255d3cbb-5970-47d3-8025-2120bec83590" />
+<img width="511" height="775" alt="Screenshot 2025-10-08 085856" src="https://github.com/user-attachments/assets/77811f9f-144d-4256-b671-e362280a48d5" />
+<img width="699" height="606" alt="Screenshot 2025-10-08 085913" src="https://github.com/user-attachments/assets/51d09c5a-4d95-400e-b449-d497e0ebd24a" />
+<img width="818" height="305" alt="Screenshot 2025-10-08 085930" src="https://github.com/user-attachments/assets/2500e929-b3af-4cc6-be6b-900f080789e3" />
+<img width="901" height="786" alt="Screenshot 2025-10-08 085943" src="https://github.com/user-attachments/assets/e0b5ed2e-16c5-4bad-bf1e-a663bc92cbf8" />
+<img width="806" height="662" alt="Screenshot 2025-10-08 085954" src="https://github.com/user-attachments/assets/0999e189-a93e-4e96-818b-5eb4eb77e682" />
+<img width="798" height="774" alt="Screenshot 2025-10-08 090008" src="https://github.com/user-attachments/assets/1438357c-6328-4dc6-997c-218552255b86" />
+<img width="865" height="660" alt="Screenshot 2025-10-08 090036" src="https://github.com/user-attachments/assets/e789dd3f-dd87-4b8b-a859-a3e44aa7ea12" />
+
+
+
+
+
+
+
 
